@@ -1,0 +1,10 @@
+{
+  "name": "PantryMind",
+  "description": "An AI-powered meal planner, inventory manager, and zero-friction cooking assistant that leverages vision analysis to organize ingredients and generate personalized recipes.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
